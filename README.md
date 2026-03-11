@@ -25,8 +25,7 @@ Maintain a lap counter.
 Objective:
 Measure how many times a button is pressed in 5 seconds.
 
-**Code Operation : **
-
+**Code Operation:**
 Start counting when the first button press occurs. (Use an Indicicator to start)
 A 5-second timer begins using time.ticks_ms().
 Count how many presses occur within that period. (Use an Indicator to end)
